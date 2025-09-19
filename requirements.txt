@@ -1,0 +1,4 @@
+# This project has no external dependencies.
+# If libraries like NumPy or Pandas were used, they would be listed here.
+# Example:
+# numpy==1.26.4
